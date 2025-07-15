@@ -1,58 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\",
+  "WorkspaceRootPath": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B2AB949-828D-4F84-8944-DB6FB8F94A6B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B2AB949-828D-4F84-8944-DB6FB8F94A6B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\modelo_de_final\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\modelo_de_final\\personajedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\personajedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\modelo_de_final\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\final\\modelo_de_final\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\modelo_de_final\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B2AB949-828D-4F84-8944-DB6FB8F94A6B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\final\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2AB949-828D-4F84-8944-DB6FB8F94A6B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\modelo_de_final\\ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\final\\modelo_de_final\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\modelo_de_final\\ladosmoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\ladosmoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\modelo_de_final\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\modelo_de_final\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\modelo_de_final\\hechicero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\final\\modelo_de_final\\hechicero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\hechicero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\modelo_de_final\\resultadocombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\final\\modelo_de_final\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\final\\modelo_de_final\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\final\\modelo_de_final\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\final\\modelo_de_final\\aleatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\aleatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\final\\modelo_de_final\\ladosmoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\ladosmoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\final\\modelo_de_final\\personajedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\personajedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\final\\modelo_de_final\\resultadocombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\resultadocombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06304140-3AA4-47AB-8FB1-2ACF601B9678}|TestProject2\\TestProject2.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\testproject2\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06304140-3AA4-47AB-8FB1-2ACF601B9678}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\carpeta personal\\final\\modelo_de_final\\aleatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\aleatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|c:\\users\\mat\u00EDas tanoni\\onedrive\\escritorio\\final\\modelo_de_final\\ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20E268-5AC5-4654-B65A-8AC922E3B782}|Modelo_de_final\\Modelo_de_final.csproj|solutionrelative:modelo_de_final\\ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,17 +58,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 227,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T20:54:58.027Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Personaje.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Personaje.cs",
               "RelativeDocumentMoniker": "Modelo_de_final\\Personaje.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Personaje.cs",
-              "RelativeToolTip": "Modelo_de_final\\Personaje.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAUwJAAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Personaje.cs*",
+              "RelativeToolTip": "Modelo_de_final\\Personaje.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T22:22:57.561Z",
               "IsPinned": true,
@@ -84,63 +94,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T20:54:58.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonajeDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\PersonajeDAO.cs",
-              "RelativeDocumentMoniker": "Modelo_de_final\\PersonajeDAO.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\PersonajeDAO.cs",
-              "RelativeToolTip": "Modelo_de_final\\PersonajeDAO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T23:11:57.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Combate.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Combate.cs",
-              "RelativeDocumentMoniker": "Modelo_de_final\\Combate.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Combate.cs",
-              "RelativeToolTip": "Modelo_de_final\\Combate.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAcwIMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T22:59:51.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IJugador.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\IJugador.cs",
-              "RelativeDocumentMoniker": "Modelo_de_final\\IJugador.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\IJugador.cs",
-              "RelativeToolTip": "Modelo_de_final\\IJugador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T23:00:11.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "BusinessException.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\BusinessException.cs",
               "RelativeDocumentMoniker": "Modelo_de_final\\BusinessException.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\BusinessException.cs",
               "RelativeToolTip": "Modelo_de_final\\BusinessException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,63 +107,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MSTestSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\TestProject2\\MSTestSettings.cs",
-              "RelativeDocumentMoniker": "TestProject2\\MSTestSettings.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\TestProject2\\MSTestSettings.cs",
-              "RelativeToolTip": "TestProject2\\MSTestSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Aleatorio.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Aleatorio.cs",
+              "RelativeDocumentMoniker": "Modelo_de_final\\Aleatorio.cs",
+              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Aleatorio.cs",
+              "RelativeToolTip": "Modelo_de_final\\Aleatorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T18:00:38.175Z",
+              "WhenOpened": "2025-07-10T22:02:21.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResultadoCombate.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\ResultadoCombate.cs",
-              "RelativeDocumentMoniker": "Modelo_de_final\\ResultadoCombate.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\ResultadoCombate.cs",
-              "RelativeToolTip": "Modelo_de_final\\ResultadoCombate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Combate.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Combate.cs",
+              "RelativeDocumentMoniker": "Modelo_de_final\\Combate.cs",
+              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Combate.cs",
+              "RelativeToolTip": "Modelo_de_final\\Combate.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwBcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T22:52:47.845Z",
+              "WhenOpened": "2025-07-10T22:59:51.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Guerrero.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Guerrero.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Guerrero.cs",
               "RelativeDocumentMoniker": "Modelo_de_final\\Guerrero.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Guerrero.cs",
+              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Guerrero.cs",
               "RelativeToolTip": "Modelo_de_final\\Guerrero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T22:48:22.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Logger.cs",
-              "RelativeDocumentMoniker": "Modelo_de_final\\Logger.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Logger.cs*",
-              "RelativeToolTip": "Modelo_de_final\\Logger.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T23:09:49.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Hechicero.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Hechicero.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Hechicero.cs",
               "RelativeDocumentMoniker": "Modelo_de_final\\Hechicero.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Hechicero.cs",
+              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Hechicero.cs",
               "RelativeToolTip": "Modelo_de_final\\Hechicero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,11 +159,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Logger.cs",
+              "RelativeDocumentMoniker": "Modelo_de_final\\Logger.cs",
+              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Logger.cs",
+              "RelativeToolTip": "Modelo_de_final\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:09:49.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LadosMoneda.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\LadosMoneda.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\LadosMoneda.cs",
               "RelativeDocumentMoniker": "Modelo_de_final\\LadosMoneda.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\LadosMoneda.cs",
+              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\LadosMoneda.cs",
               "RelativeToolTip": "Modelo_de_final\\LadosMoneda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,15 +185,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Aleatorio.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Aleatorio.cs",
-              "RelativeDocumentMoniker": "Modelo_de_final\\Aleatorio.cs",
-              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Aleatorio.cs",
-              "RelativeToolTip": "Modelo_de_final\\Aleatorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "PersonajeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\PersonajeDAO.cs",
+              "RelativeDocumentMoniker": "Modelo_de_final\\PersonajeDAO.cs",
+              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\PersonajeDAO.cs",
+              "RelativeToolTip": "Modelo_de_final\\PersonajeDAO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T22:02:21.067Z",
+              "WhenOpened": "2025-07-13T23:18:09.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultadoCombate.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\ResultadoCombate.cs",
+              "RelativeDocumentMoniker": "Modelo_de_final\\ResultadoCombate.cs",
+              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\ResultadoCombate.cs",
+              "RelativeToolTip": "Modelo_de_final\\ResultadoCombate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T22:52:47.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IJugador.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\IJugador.cs",
+              "RelativeDocumentMoniker": "Modelo_de_final\\IJugador.cs",
+              "ToolTip": "C:\\Users\\Mat\u00EDas Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\IJugador.cs",
+              "RelativeToolTip": "Modelo_de_final\\IJugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:00:11.613Z",
               "EditorCaption": ""
             }
           ]

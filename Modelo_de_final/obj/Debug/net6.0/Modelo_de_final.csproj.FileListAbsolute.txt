@@ -11,3 +11,16 @@ C:\Users\Matías Tanoni\OneDrive\Escritorio\Carpeta Personal\final\Modelo_de_fin
 C:\Users\Matías Tanoni\OneDrive\Escritorio\Carpeta Personal\final\Modelo_de_final\obj\Debug\net6.0\refint\Modelo_de_final.dll
 C:\Users\Matías Tanoni\OneDrive\Escritorio\Carpeta Personal\final\Modelo_de_final\obj\Debug\net6.0\Modelo_de_final.pdb
 C:\Users\Matías Tanoni\OneDrive\Escritorio\Carpeta Personal\final\Modelo_de_final\obj\Debug\net6.0\ref\Modelo_de_final.dll
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\bin\Debug\net6.0\Modelo_de_final.deps.json
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\bin\Debug\net6.0\Modelo_de_final.dll
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\bin\Debug\net6.0\Modelo_de_final.pdb
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\obj\Debug\net6.0\Modelo_de_final.csproj.AssemblyReference.cache
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\obj\Debug\net6.0\Modelo_de_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\obj\Debug\net6.0\Modelo_de_final.AssemblyInfoInputs.cache
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\obj\Debug\net6.0\Modelo_de_final.AssemblyInfo.cs
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\obj\Debug\net6.0\Modelo_de_final.csproj.CoreCompileInputs.cache
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\obj\Debug\net6.0\Modelo_de_final.sourcelink.json
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\obj\Debug\net6.0\Modelo_de_final.dll
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\obj\Debug\net6.0\refint\Modelo_de_final.dll
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\obj\Debug\net6.0\Modelo_de_final.pdb
+C:\Users\Matías Tanoni\OneDrive\Escritorio\final\Modelo_de_final\obj\Debug\net6.0\ref\Modelo_de_final.dll

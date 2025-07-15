@@ -13,7 +13,7 @@ namespace Modelo_de_final
         public static Personaje? ObtenerPersonajePorId(decimal id)
         {
             string cadenaConexion = "Server=localhost\\SQLEXPRESS;Database=COMBATE_DB;Trusted_Connection=True;";
-
+               
             string query = "SELECT id, nombre, nivel, clase FROM Personajes WHERE id = @id";
 
             using (SqlConnection conexion = new SqlConnection(cadenaConexion))

@@ -17,12 +17,11 @@ namespace Modelo_de_final
 
         public int Atacar()
         {
-            Random rnd = new Random();
 
-            int esperaMilisegundos = rnd.Next(1000, 5001);
+            int esperaMilisegundos = _random.Next(1000, 5001);
             Thread.Sleep(esperaMilisegundos); // Solo al final del método
 
-            int porcentaje = rnd.Next(10, 101);
+            int porcentaje = _random.Next(10, 101);
             int puntosDeAtaque = (this.puntosDePoder * porcentaje) / 100;
 
             AtaqueLanzado?.Invoke(this, puntosDeAtaque);
@@ -34,9 +33,7 @@ namespace Modelo_de_final
 
         public void RecibirAtaque(int danio)
         {
-            Random rnd = new Random();
-
-            int porcentaje = rnd.Next(10, 101);
+            int porcentaje = _random.Next(10, 101);
             int defensaAplicada = (this.puntosDeDefensa * porcentaje) / 100;
 
             int danioFinal = danio - defensaAplicada;
@@ -58,7 +55,7 @@ namespace Modelo_de_final
         protected int puntosDeVida;
         private static Random _random;
         private string _titulo;
-        private const int _maximoDeNivel = 20;
+        private const int _maximoDeNivel = 100;
         private const int _minimoDeNivel = 1;
 
         public string Titulo

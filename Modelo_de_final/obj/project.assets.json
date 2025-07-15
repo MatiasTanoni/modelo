@@ -178,11 +178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matías Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Modelo_de_final.csproj",
+      "projectUniqueName": "C:\\Users\\Matías Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Modelo_de_final.csproj",
       "projectName": "Modelo_de_final",
-      "projectPath": "C:\\Users\\Matías Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\Modelo_de_final.csproj",
+      "projectPath": "C:\\Users\\Matías Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\Modelo_de_final.csproj",
       "packagesPath": "C:\\Users\\Matías Tanoni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matías Tanoni\\OneDrive\\Escritorio\\Carpeta Personal\\final\\Modelo_de_final\\obj\\",
+      "outputPath": "C:\\Users\\Matías Tanoni\\OneDrive\\Escritorio\\final\\Modelo_de_final\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
