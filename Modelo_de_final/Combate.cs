@@ -19,10 +19,10 @@ namespace Modelo_de_final
 
         static Combate()
         {
-            _random = new Random();
         }
         private Combate()
         {
+            _random = new Random();
         }
         public Combate(IJugador jugador1, IJugador jugador2)
         {
@@ -65,7 +65,11 @@ namespace Modelo_de_final
             string json = JsonSerializer.Serialize(resultado, new JsonSerializerOptions { WriteIndented = true });
 
             // Guardar el JSON en un archivo
-            File.WriteAllText("resultadoCombate.json", json);
+            string ruta = "resultadoCombate.json";
+            File.WriteAllText(ruta, json);
+
+            // Mostrar ruta completa
+            Console.WriteLine("✅ JSON generado en: " + Path.GetFullPath(ruta));
         }
 
 
